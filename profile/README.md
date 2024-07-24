@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
+
 ## Description
 Welcome to Liberu Accounting, our cutting-edge open-source project that transforms the realm of accounting with the seamless integration of Laravel 11, PHP 8.3, Livewire 3, and Filament 3. Liberu Accounting is not just a financial tool; it's a dynamic and robust solution crafted to elevate the accounting experience for businesses and individuals alike.
 
